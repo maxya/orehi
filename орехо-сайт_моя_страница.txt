@@ -1,0 +1,9 @@
+﻿nuts.comoj.com
+a9470416 
+123pizda
+
+
+$mysql_host = "mysql5.000webhost.com";
+$mysql_database = "a9470416_nuts";
+$mysql_user = "a9470416_nut";
+$mysql_password = "123pizda";
